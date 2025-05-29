@@ -410,7 +410,6 @@ def ruta_markov_distancia(origen, destino, matriz_transicion, estaciones, n_simu
 
 import numpy as np
 import pandas as pd
-from IPython.display import display, clear_output
 from collections import defaultdict
 import networkx as nx
 import streamlit as st
